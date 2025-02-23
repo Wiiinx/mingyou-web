@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9fe40f7c.css",
+    "main.js": "/static/js/main.0aba7f82.js",
+    "static/js/488.143dd6e2.chunk.js": "/static/js/488.143dd6e2.chunk.js",
+    "static/media/factory-image.jpg": "/static/media/factory-image.afad7ab1111ed72475e0.jpg",
+    "static/media/machine1.png": "/static/media/machine1.d9de8ff3a4cfa3450a33.png",
+    "static/media/Acrylic-light.png": "/static/media/Acrylic-light.993c9d417b687cc4b78f.png",
+    "static/media/PS-nano.png": "/static/media/PS-nano.7eb0894dffac38da424a.png",
+    "static/media/machine3.png": "/static/media/machine3.be39c9a233d2f42513e4.png",
+    "static/media/machine2.png": "/static/media/machine2.8f0f9d3930fc93b674cf.png",
+    "static/media/sample-certificate.png": "/static/media/sample-certificate.116768f1c95e38faaf60.png",
+    "static/media/PS-diffuser.png": "/static/media/PS-diffuser.6bfde1cc42ffd35672b5.png",
+    "static/media/logo.png": "/static/media/logo.effe21f12fbd8769edc3.png",
+    "index.html": "/index.html",
+    "main.9fe40f7c.css.map": "/static/css/main.9fe40f7c.css.map",
+    "main.0aba7f82.js.map": "/static/js/main.0aba7f82.js.map",
+    "488.143dd6e2.chunk.js.map": "/static/js/488.143dd6e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fe40f7c.css",
+    "static/js/main.0aba7f82.js"
+  ]
+}
